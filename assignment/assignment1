@@ -1,0 +1,17 @@
+1. Variable and values
+    a. Declare variables called 'country', 'continent' and 'population' and assign their values according to your own country (population in millions).
+    b. Log their values to the console
+
+2. Data Types
+    a. Declare a variable called 'isIsland' and set its value according to your country. The variable should hold a Boolean value. Also declare a variable 'language', but don't assign it any value yet.
+    b. Log the types of 'isIsland', 'population', 'country' and 'language' to the console.
+
+3. let const and var
+    a. Set the value of 'language' to the language spoken where you live
+    b. Think about which variables should be const variables (which values will never change, and which might change?). Then, change these variables to const.
+    
+4. Basic operators
+    a. If your country split in half, and each half would contain half the population, then how many people would live in each half?
+    b. Increase the population of your country by 1 and log the result to the console.
+    c. Finland has a population of 6 million. Does your country have more people than Finland?
+    d. The average population of a country is 33 million people. Does your country have less people than the average country?

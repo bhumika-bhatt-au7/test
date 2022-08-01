@@ -1,0 +1,21 @@
+// Arithmetic operator
+    a. create two variable a and b. The values of each are 5 and 3 respectively.
+    b. the sum of two number
+    c. subtraction of two numbers
+    d. multiplication
+    e. division
+    f. remainder
+    g. incremented like this then what would be the difference(++value, value++)
+    h. decremented like this then what would be the difference(--value, value--)
+    i. exponentiation
+
+// ternary operator
+    a. take marks of 5 subjects and calculate the total and the percentage of the student;
+    b. if the student is pass then console pass and if not console fail
+
+// assigment 
+    a. Make variables for your name, hobby, place, etc.
+    b. create your introduction using values from these variables using template literals.
+    c. console the intoduction.
+
+

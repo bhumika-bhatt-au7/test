@@ -1,0 +1,20 @@
+// Type conversion
+    a. Create two variable x and y
+    b. assign x any number and y any string value
+    c. add the two values
+    d. console the answer
+    e. convert the value to number
+    f. convert it to string
+    g. convert it to boolean
+    h. and console the type of all the values for e to h
+
+// if else statements
+    a. use your example from yesterday's assignment and using that example find the average of your marks
+    b. if you get more than 33 console "Fail"
+    c. if you get more than 40 console "Third Division"
+    d. if you get more than 55 console "Second Division"
+    e. if you get more than 60 console " First Division"
+
+// Do the above question using nester if else 
+
+// console the values from 1 to 10
