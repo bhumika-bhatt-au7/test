@@ -8,13 +8,3 @@
     g. convert it to boolean
     h. and console the type of all the values for e to h
 
-// if else statements
-    a. use your example from yesterday's assignment and using that example find the average of your marks
-    b. if you get more than 33 console "Fail"
-    c. if you get more than 40 console "Third Division"
-    d. if you get more than 55 console "Second Division"
-    e. if you get more than 60 console " First Division"
-
-// Do the above question using nester if else 
-
-// console the values from 1 to 10
