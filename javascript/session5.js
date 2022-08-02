@@ -1,4 +1,5 @@
-// if.. else statement
+/**
+ * // if.. else statement
 // ternary operator => is partial if else 
 
 // if statement
@@ -108,3 +109,57 @@ for (let i = 0; i <= n; ++i ) {
         console.log(" Finished")
     }
 }
+*/
+
+/**
+ *  const Maths = 100;
+    const Hindi = 100;
+    const English = 100;
+    const science = 100;
+    const sst = 0;
+
+    const total = Maths + Hindi + English + science + sst;
+    console.log("The total marks scored is :", total);
+
+    const percentage = total/5;
+    console.log("The percentage of the student is: ", percentage);
+
+    if (Maths < 33 || Hindi < 33 || English < 33 || science < 33 || sst < 33) {
+        console.log("Failed")
+    } else if (percentage <= 33) {
+        console.log("Fail !")
+    } else if (percentage > 33 && percentage <=40) {
+        console.log("Third")
+    } else if (percentage > 40 && percentage <= 60) {
+        console.log("Second")
+    } else {
+        console.log("First")
+    }
+ */
+// const num = 30
+
+// if (num > 60) {
+//     console.log("first")
+// } else if(num > 60) {
+//     if (num > 30 ) {}
+// } else {
+//     console.log("fail")
+// }
+
+// for (let i = 1; i <= 10; i ++) {
+//     console.log(i)
+// }
+
+// print the table of 2
+const n = 2;
+for (let i = 1; i <= 10; i ++) {
+    console.log(`${n} X ${i} = ${i*n}`)
+}
+
+
+
+
+
+
+
+
