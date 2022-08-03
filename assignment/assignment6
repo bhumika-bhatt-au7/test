@@ -1,7 +1,17 @@
 // If... else
 1. WAP to find maximum between two numbers.
-2. WAP to check whether a number is divisible by 5 and 11 or not.
+2. WAP to check whether a number is divisible by 5 and  11 or not.
 3. WAP to check whether a number is even or odd.
+4. // Do the above question using nested if else 
+    if (pass) {
+        if (per > 60) {
+
+        } else if (per > 40 && per <= 60) {
+            
+        }
+    } else {
+        
+    }
 // for
 4. WAP to calculate the sum of first 10 natural number.
 5. WAP to display the cube of the number upto 5
@@ -10,3 +20,7 @@
     cube of the 3 is :27
     cube of the 4 is :64
     cube of the 5 is :125
+
+6. write a javascript program to sort three numbers 
+    numbers :: 3, -7, 2
+    o/p => -7, 2, 3 or 3, 2, -7
