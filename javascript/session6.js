@@ -56,4 +56,5 @@ for (let i = 1; i< 21; i++) {
     console.log(sum)
 }
 
-console.log("the total is:", sum)
+console.log("the total is:", sum);
+
