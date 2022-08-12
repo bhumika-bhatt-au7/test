@@ -1,0 +1,15 @@
+1. Count number of Vowels in String
+
+2. Write a function to check if an input string is a palindrome
+  // '272' => the value which when read from either side is statement
+  // racecar
+
+3. Write a function to find Factorial of a number
+  // Factorial of 5 => 5*4*3*2*1
+
+4. Write a function to find the count of a letter in a string
+  // input = (connect, c) 
+  // o/p => 2
+
+5. calculate simple interest based on the principle amount
+  // formulae => (p * r * t)/ 100
